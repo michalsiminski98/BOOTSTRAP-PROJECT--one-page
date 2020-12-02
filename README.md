@@ -1,5 +1,8 @@
 # BOOTSTRAP-PROJECT--one-page
 
+Live server: https://michalsiminski98.github.io/BOOTSTRAP-PROJECT--one-page/#home
+
+
 # JavaScript
 
 Gallery.js makes new photos in Gallery.  
